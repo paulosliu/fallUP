@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GameObject
+comment0.text=\n\ Objects\ that\ are\ part\ of\ gameplay\ that\ are\ not\ the\ ball\n\n\ @author\ Paulos\ Liu\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\n\ moves\ the\ object\ with\ the\ speed\n
+comment2.params=min\ max
+comment2.target=int\ generateRandomNumber(int,\ int)
+comment2.text=\n\ Generates\ a\ random\ number\ x\ where\ min\ <\ x\ <\ max\n\ @param\ min\ the\ min\ the\ number\ can\ be\n\ @param\ max\ the\ max\ the\ number\ can\ be\n\ @return\ the\ random\ number\n
+numComments=3

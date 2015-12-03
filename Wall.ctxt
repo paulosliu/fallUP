@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Wall
+comment0.text=\n\ The\ top\ and\ bottom\ walls\n\ \n\ @author\ Paulos\ Liu\n
+comment1.params=color
+comment1.target=Wall(java.lang.String)
+numComments=2

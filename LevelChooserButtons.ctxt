@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LevelChooserButtons
+comment0.text=\n\ These\ buttons\ choose\ worlds.\ We're\ so\ good\ at\ polymorphism\ eh?\n\n\ @author\ Paulos\ Liu,\ Jun\ Lee\n
+comment1.params=name
+comment1.target=LevelChooserButtons(java.lang.String)
+comment2.params=
+comment2.target=void\ action()
+comment2.text=\n\ These\ buttons\ change\ the\ world.\ So\ cool.\n
+comment3.params=
+comment3.target=void\ setWorld()
+comment3.text=\n\ subclasses\ of\ button\ will\ override\ this\ method\n\ all\ buttons\ will\ set\ the\ world\ back\ to\ their\ assigned\ level\n\n\ we're\ showing\ off\ our\ extensive\ knowledge\ of\ polymorphism\ and\n\ abstract\ classes\ here\n
+numComments=4

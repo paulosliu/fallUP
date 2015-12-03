@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\n\ Menus\ hold\ buttons,\ and\ sometimes\ logs\n\ Has\ A\ LOT\ of\ subclasses.\ Much\ polymorphism.\n\ \n\ @author\ Paulos\ Liu\n
+comment1.params=world
+comment1.target=void\ makeButtons(greenfoot.World)
+comment1.text=\n\ Puts\ the\ buttons\ in\ order\n\ @param\ world\ The\ world\ we\ put\ the\ buttons\ in\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getButtons()
+comment2.text=\n\ Gets\ the\ list\ of\ buttons\ in\ the\ menu\n\ @return\ the\ list\ of\ buttons\ in\ the\ menu\n
+numComments=3

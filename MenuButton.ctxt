@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MenuButton
+comment0.text=\n\ These\ buttons\ remove\ remove\ previous\ menus\ and\ create\ their\ menu\n\ \n\ @author\ Paulos\ Liu,\ Jun\ Lee\n
+comment1.params=name
+comment1.target=MenuButton(java.lang.String)
+comment2.params=
+comment2.target=void\ removePreviousMenus()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MainMenuButton
+comment0.text=\n\ This\ class\ removes\ previous\ menus\ and\ makes\ a\ main\ menu\n\ \n\ @author\ Paulos\ Liu,\ Jun\ Lee\n
+comment1.params=
+comment1.target=MainMenuButton()
+comment2.params=
+comment2.target=void\ action()
+comment2.text=\n\ This\ class\ removes\ previous\ menus\ and\ makes\ a\ main\ menu\n
+numComments=3

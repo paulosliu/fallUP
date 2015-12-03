@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EvilObject
+comment0.text=\n\ Objects\ that\ kill\ the\ ball\n\n\ @author\ Paulos\ Liu\n
+comment1.params=
+comment1.target=EvilObject()
+comment2.params=
+comment2.target=void\ updateScore()
+comment2.text=\n\ If\ this\ is\ the\ top\ object\ and\ this\ has\ passed\ the\ ball\n\ then\ we\ add\ one\ point\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ EvilObjects\ pretty\ much\ just\ move\ around\ and\ update\ the\ score\n
+numComments=4

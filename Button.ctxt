@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\n\ This\ is\ a\ abstract\ class\ that\ defines\ what\ a\ Button\ is\ in\ the\ game\n\ Since\ all\ of\ the\ buttons\ are\ text\ based,\ the\ setImage\ takes\ in\ text.\n\n\ @author\ Paulos\ Liu,\ Jun\ lee\n
+comment1.params=name
+comment1.target=Button(java.lang.String)
+comment1.text=\n\ Creates\ a\ button\ with\ name\n\n\ @param\ name\ The\ text\ of\ the\ button\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ If\ the\ button\ is\ clicked,\ do\ the\ action\ defined\ in\ the\ subclasses\n
+comment3.params=text\ size
+comment3.target=void\ setImage(java.lang.String,\ int)
+comment3.text=\n\ Creates\ the\ image\ for\ the\ button\ with\ the\ the\ given\ text\ and\ text\ size\n\n\ @param\ text\ the\ text\ you\ want\ on\ the\ button\n\ @param\ size\ the\ text\ size\n
+comment4.params=text
+comment4.target=void\ setImage(java.lang.String)
+comment4.text=\n\ Creates\ the\ image\ for\ the\ button\ with\ the\ the\ given\n\ text\ and\ default\ text\ size\n\n\ @param\ text\ the\ text\ you\ want\ on\ the\ button\n
+comment5.params=
+comment5.target=void\ action()
+comment5.text=\n\ the\ unique\ actions\ of\ the\ subclasses\n
+numComments=6

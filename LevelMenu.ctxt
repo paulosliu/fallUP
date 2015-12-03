@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LevelMenu
+comment0.text=\n\ Creates\ a\ Menu\ with\ the\ amount\ of\ levels\ there\ are\ (3)\n\ \n\ @author\ Paulos\ Liu\n
+comment1.params=
+comment1.target=LevelMenu()
+numComments=2

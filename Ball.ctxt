@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\n\ This\ is\ the\ "main\ character"\ of\ the\ game.\ The\ user\ makes\ the\ ball\ go\ up\ and\n\ down,\ trying\ to\ avoid\ the\ obstacles--the\ evil\ objects\!\n\n\ @author\ Paulos\ Liu,\ Jun\ Lee\n
+comment1.params=
+comment1.target=Ball()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ If\ it\ touches\ a\ "evil\ object"\ it\ dies\n\ If\ space\ is\ pressed\ or\ hits\ a\ wall,\ it\ moves\ to\ the\ other\ side\n\ We\ calculate\ the\ speed\ and\ move\n\ We\ keep\ track\ of\ the\ time\n
+comment3.params=
+comment3.target=void\ startVelocity()
+comment3.text=\n\ Calculates\ the\ velocity\ in\ the\ beginning\n
+comment4.params=
+comment4.target=boolean\ delay()
+comment4.text=\n\ Sees\ if\ enough\ time\ passed\ for\ the\ rebound\ method\n
+comment5.params=
+comment5.target=void\ calculateVelocity()
+comment5.text=\n\ Calculates\ the\ velocity\ of\ the\ ball\ so\ it\ looks\ like\ gravity.\n
+comment6.params=
+comment6.target=void\ move()
+comment6.text=\n\ Moves\ the\ ball\ with\ velocity\n
+comment7.params=
+comment7.target=void\ die()
+comment7.text=\n\ Plays\ a\ static\ sound\ if\ the\ ball\ dies\n\ Makes\ the\ world\ make\ everything\ else\ die\ too\n
+comment8.params=
+comment8.target=void\ changeColor()
+comment8.text=\n\ Changes\ the\ color\ of\ the\ ball\ and\ changes\ the\n\ direction\ of\ movement\n
+numComments=9

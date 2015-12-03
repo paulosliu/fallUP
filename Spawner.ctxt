@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Spawner
+comment0.text=\n\ Write\ a\ description\ of\ class\ Spawner\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Spawner()
+comment2.params=difficulty
+comment2.target=Spawner(int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Creates\ either\ rectangles\ or\ bombs\ every\ DELAY\ iterations\n
+comment4.params=
+comment4.target=void\ generateObjects()
+comment4.text=\n\ Has\ a\ 1/CHANCE\ chance\ of\ generating\ a\ bombs.\n
+comment5.params=
+comment5.target=void\ generateBombs()
+comment5.text=\n\ Generates\ the\ number\ of\ bombs\ and\ uses\ createBombs()\n
+comment6.params=num\ gap
+comment6.target=void\ createBombs(int,\ int)
+comment6.text=\n\ Creates\ the\ bombs\n\n\ @param\ num\ number\ of\ bombs\n\ @param\ gap\ gap\ betweeen\ bombs\n
+comment7.params=
+comment7.target=void\ generateRectangles()
+comment7.text=\n\ Generates\ the\ rectangles\n
+numComments=8

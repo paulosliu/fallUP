@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ResetButton
+comment0.text=\n\ This\ button\ resets\ everything\ to\ as\ it\ was\ in\ the\ beginning\n\ \n\ @author\ Paulos\ Liu,\ Jun\ Lee\n
+comment1.params=
+comment1.target=ResetButton()
+comment2.params=
+comment2.target=void\ setWorld()
+numComments=3

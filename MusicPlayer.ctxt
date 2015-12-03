@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MusicPlayer
+comment0.text=\n\ Plays\ the\ bgm.\ Song\ created\ by\ the\ very\ talented\ Mark\ Yoon.\n\ \n\ @author\ Paulos\ Liu\n
+comment1.params=
+comment1.target=MusicPlayer()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MusicPlayer\n
+numComments=2

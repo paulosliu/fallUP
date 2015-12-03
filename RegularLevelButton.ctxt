@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RegularLevelButton
+comment0.text=\n\ A\ button\ that\ creates\ a\ Level\ with\ the\ given\ difficulty\ level\n\ \n\ @author\ Paulos\ Liu,\ Jun\ Lee\n
+comment1.params=name\ level
+comment1.target=RegularLevelButton(java.lang.String,\ int)
+comment1.text=\n\ Creates\ buttons\ that\ access\ different\ levels\n\ @param\ levelNumber\ The\ level\ you\ want\ to\ play,\ where\ 0\ is\ easy\n
+comment2.params=
+comment2.target=void\ setWorld()
+comment2.text=\n\ Set\ a\ world\ with\ the\ defined\ level\n
+numComments=3

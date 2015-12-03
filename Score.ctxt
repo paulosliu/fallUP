@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\n\ Shows\ the\ current\ score\n\ \n\ @author\ Paulos\ Liu\n
+comment1.params=
+comment1.target=Score()
+comment1.text=\n\ Creates\ a\ score\ shower\ for\ the\ current\ score\n
+comment2.params=level
+comment2.target=Score(Level)
+comment2.text=\n\ Creates\ score\ shower\ for\ the\ high\ score\n\ @param\ level\ the\ difficulty\ of\ the\ game\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Only\ used\ by\ the\ current\ score\ Score\ instances\n
+comment4.params=text\ score\ size
+comment4.target=greenfoot.GreenfootImage\ makeImage(java.lang.String,\ int,\ int)
+comment4.text=\n\ Creates\ an\ image\ for\ itself\n\ @param\ text\ The\ prefix\ ("High\ Score\:\ "\ or\ something)\n\ @param\ score\ The\ actualy\ number\ for\ the\ score\n\ @param\ size\ The\ text\ size\n\ @return\ The\ image\ with\ all\ these\ parameters\n
+comment5.params=score
+comment5.target=void\ setRegularImage(int)
+comment5.text=\n\ Sets\ the\ image\ for\ the\ current\ score\n\ @param\ score\ the\ number\ for\ the\ score\n
+numComments=6

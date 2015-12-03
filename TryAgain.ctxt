@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TryAgain
+comment0.text=\n\ Resets\ world\ with\ current\ difficulty\n\ \n\ @author\ Paulos\ Liu,\ Jun\ Lee\n
+comment1.params=
+comment1.target=TryAgain()
+comment2.params=
+comment2.target=void\ setWorld()
+numComments=3

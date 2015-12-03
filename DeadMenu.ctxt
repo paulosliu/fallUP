@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DeadMenu
+comment0.text=\n\ The\ menu\ for\ when\ you're\ dead\n\n\ @author\ Paulos\ Liu\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=DeadMenu()
+comment1.text=\n\ Creates\ a\ DeadMenu\n
+comment2.params=world
+comment2.target=void\ makeButtons(greenfoot.World)
+comment2.text=\n\ Puts\ in\ the\ elements\n\n\ @param\ world\ The\ Greenfoot\ world\ this\ is\ in\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Bomb
+comment0.text=\n\ The\ "Bomb"\ is\ just\ a\ floating\ block\ that\ the\ ball\ has\ to\ avoid\n\n\ @author\ Paulos\ Liu\n
+comment1.params=top
+comment1.target=Bomb(boolean)
+comment1.text=\n\ Creates\ a\ bomb\n\ @param\ top\ if\ the\ bomb\ is\ the\ very\ top\ one\n\ \ \ \ \ \ \ \ \ \ \ \ to\ avoid\ adding\ multiple\ points.\n
+numComments=2

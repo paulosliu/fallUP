@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\n\ Rectangles\ that\ hurt\ the\ ball\n\n\ @author\ Paulos\ Liu\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=length\ top
+comment1.target=Rectangle(int,\ boolean)
+comment1.text=\n\ Creates\ a\ rectangle\ with\ defined\ length\n\n\ @param\ length\ The\ wanted\ length\ for\ the\ rectangle\n\ @param\ top\ \ \ \ Whether\ this\ is\ the\ top\ one\ (since\ there\ is\ a\ bottom\ one)\n
+comment2.params=
+comment2.target=void\ initializeImage()
+numComments=3
